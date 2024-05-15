@@ -1,8 +1,10 @@
 
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Full-stack Reactjs/Nextjs | Vue/Nuxt.js/Storyblok/Headless CMS/Tailwind | Python/AWS/.NET/Azure Developer
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> Full-stack Reactjs/Nextjs | Vue/Nuxt.js/Storyblok/Headless CMS/Tailwind | Python/AWS | C#/.NET/Azure Developer
 
 - ReactJS, NextJS
 - Python, Django, Flask, Odoo
+- C#, ASP.NET MVC, .NET core
+- Azure VMs, App Service, Blob, Cosmos DB, Functions, Cognitive, AD
 - PostgreSQL, MongoDB, AWS RDS, DynamoDB
 - VueJS, NuxtJS
 - Build website with Divi and Elementor 
